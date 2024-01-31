@@ -1,4 +1,4 @@
-<P align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA8306CD&multiline=true&random=false&width=435&lines=Greetings+I'm+Lakeesha!)](https://git.io/typing-svg) </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA8306CD&multiline=true&random=false&width=435&lines=Greetings+I'm+Lakeesha!)](https://git.io/typing-svg)
 
 
 <p align="center"> -  I consider myself a jack of many trades. 😎  </p>
