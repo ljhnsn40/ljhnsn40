@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=500&color=269534CD&center=true&vCenter=true&multiline=true&random=false&width=409&lines=Greetings+I'm+Lakeesha!;%E2%80%9CDon%E2%80%99t+let+anybody+infiltrate+your;+dream.%E2%80%9D++%E2%80%94+Erykah+Badu+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA8306CD&multiline=true&random=false&width=435&lines=Greetings+I'm+Lakeesha!)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA8306CD&multiline=true&random=false&width=435&lines=%E2%80%9CDon%E2%80%99t+let+anybody+infiltrate+your;+dream.%E2%80%9D++%E2%80%94+Erykah+Badu+)](https://git.io/typing-svg)
 
