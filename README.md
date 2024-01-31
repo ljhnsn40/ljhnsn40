@@ -7,6 +7,6 @@
 [LinkedIn Profile](https://www.linkedin.com/in/lakeesha-johnson-a273b194/)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DA8306CD&multiline=true&random=false&width=435&lines=%E2%80%9CDon%E2%80%99t+let+anybody+infiltrate+your;+dream.%E2%80%9D++%E2%80%94+Erykah+Badu+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C57005&multiline=true&random=false&width=435&lines=Quote+Of+The+Month%3A;%E2%80%9CDon%E2%80%99t+let+anybody+infiltrate+your+dream.%E2%80%9D;%E2%80%94+Erykah+Badu)](https://git.io/typing-svg)
 
 
